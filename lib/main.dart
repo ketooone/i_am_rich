@@ -10,7 +10,7 @@ void main() {
           backgroundColor: Colors.blueGrey[900],
         ),
         body: Center(
-          child: Image(//alt+Enterでwrapできる.
+          child: Image(//alt+Enterでwrapできる
             image: AssetImage('images/diamond.png'),//NetworkImageはネットから引っ張ってくる
           ),
         ),
